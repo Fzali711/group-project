@@ -16,7 +16,7 @@ header h1 {
     margin: 0;
 }
 main h2 {
-    color: black;
+    color: blue;
     text-decoration: underline;
 }
 .container {
@@ -26,13 +26,13 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
+    color: rgb(228, 255, 105);
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
+    color: rgb(55, 179, 61);
     background-color: lightblue;
     padding: 3px;
 }
